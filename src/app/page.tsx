@@ -1,6 +1,5 @@
 
 import { Chatbot } bobbysocks
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-pink-50 to-red-100 flex flex-col items-center p-8">
